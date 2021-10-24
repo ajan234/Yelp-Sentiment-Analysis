@@ -1,6 +1,6 @@
 # Yelp Sentiment Analysis of Top Restuarants 
 
-This project uses natural language processing (NLP) to predict whether Yelp customer reviews are positive or negative based on keywords. I will use Topic modeling more over Latent Dirchilet Allocation to find the hidden structures presented in the reviews and tips data provided by yelp. This type of analysis is used to determine the general tone of customer reviews and tips to get a better understanding of consumer preferences towards the restuarants.
+This project uses natural language processing (NLP) to predict whether Yelp customer reviews are positive or negative based on keywords. I will use Topic modeling more over Latent Dirchilet Allocation to find the hidden structures presented in the reviews and tips data provided by yelp. This type of analysis is used to understand customer preferences for the restaurants through customer reviews and tips.
 
 ## Project Tools 
 Python <br /> 

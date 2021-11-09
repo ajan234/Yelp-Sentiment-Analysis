@@ -11,7 +11,3 @@ Tableau <br />
 The Data from this porject is provided by yelp on https://www.yelp.com/dataset/download
 The Dataset contains 8,635,403 reviews, 160,585 businesses, 200,000 pictures, 
 8 metropolitan areas, 1,162,119 tips made by 2,189,457 users. Over 1.2 million business attributes such as hours, parking availability and ambience aggregated check-ins over time for each of the 138,876 businesses.
-
-## Results (In progress)
-
-## Conclusion (In Progress)
